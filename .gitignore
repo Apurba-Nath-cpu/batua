@@ -1,0 +1,6 @@
+# Environment Variables
+./wallet-web3/.env
+./backend/.env
+
+# FVM Version Cache
+.fvm/
